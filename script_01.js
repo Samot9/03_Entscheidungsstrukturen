@@ -26,10 +26,23 @@ console.log("------------------");
 
 // if (true && true) // und Verknüpfung
 // if(isJohnOlder)
+// if(ageJohn > ageMark)
+// {
+//     console.log("John ist älter");
+// }
+
+/************ IF - ELSE  ************/
+// mit Alternative  
+// entweder ja oder nein
+
+// if(true)
+// if (false) 
+// if(isJohnOlder)
 if(ageJohn > ageMark)
 {
     console.log("John ist älter");
 }
-
-
-
+ else 
+ {
+    console.log("John ist jünger");
+}
